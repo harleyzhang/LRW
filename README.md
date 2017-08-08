@@ -16,9 +16,15 @@ This software has been tested on Linux environment.
 
 Build with the following scripts
 
+```bash
+
 cd build
+
 cmake ..
+
 make 
+
+```
 
 
 Note: 
