@@ -18,6 +18,8 @@ Build with the following scripts
 
 ```bash
 
+mkdir build
+
 cd build
 
 cmake ..
